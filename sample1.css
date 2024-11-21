@@ -1,40 +1,7 @@
-.main-container{
-    display: flex;
-    gap:10px;
-}
-.container1{
-    width: 100px;
-    height: 100px;
-    border:1px solid;
-    background-color:lightblue;
-}
-.container2{
-    width: 100px;
-    height: 100px;
+.container{
+    width: 800px;
+    height: 800px;
     border: 1px solid;
-    background-color: #1608;
-}
-.container3{
-    width: 100px;
-    height: 100px;
-    border: 1px solid;
-    background-color: rgb(255, 255, 128);
-}
-.container4{
-    width: 100px;
-    height: 100px;
-    border: 1px solid;
-    background-color: rgba(255, 255, 128, .5);
-}
-.container5{
-    width: 100px;
-    height: 100px;
-    border: 1px solid;
-    background-color:hsl(184 36% 58%)
-}
-.container6{
-    width: 100px;
-    height: 100px;
-    border: 1px solid;
-    background-color:hsla(314, 34%, 53%, 0.84);
+    background-image: url('https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_640.jpg');
+    /* background-image:initial; */
 }
